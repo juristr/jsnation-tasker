@@ -10,6 +10,6 @@
     "test": { "cache": true }
   },
   "defaultBase": "main",
-  "nxCloudAccessToken": "MjMzYzdhOTUtYjc4NC00Zjk4LThhNjgtNTc2NjUzZDI3YTYyfHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "OTI3ZThjMGMtMGUyMC00MTcyLTkyMjctNzFlMjY4MDE0NDQ4fHJlYWQtd3JpdGU=",
   "nxCloudUrl": "https://staging.nx.app"
 }
